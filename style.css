@@ -1,0 +1,28 @@
+button{
+    background-color: rgb(170, 0, 255);
+    color: orange;
+    font-weight: 900;
+    width: 170px;
+    height: 45px;
+    font-size: 20px;
+    border-color: chartreuse;
+    border-width: 5px;
+    border-style: ridge;
+}
+h2{
+    background-color: gold;
+    width: 500px;
+}
+h1{
+    font-weight: 900;
+    color: dodgerblue;
+    background-color: black;
+    width: 200px;
+}
+body{
+    background-color: rgb(139, 28, 8);
+}
+canvas{
+    background-color: white;
+    margin-top: 182px;
+}
